@@ -45,8 +45,8 @@ def spider(n):
 				i += 1
 
 
-n = 3
-for n in range(3,100):
+
+for n in range(0,100):
 	n += 1
 	number = (bytes)(n)
 	spider(number)
