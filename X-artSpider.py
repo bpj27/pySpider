@@ -38,6 +38,7 @@ def report(count, blockSize, totalSize):
 
 urlMain = "http://www.xartbeauties.com/photos/"
 contentMain = UrlOpen(urlMain)
+
 # print(contentMain)
 
 # 正则解析
